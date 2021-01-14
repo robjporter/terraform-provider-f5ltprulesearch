@@ -1,4 +1,4 @@
-module terraform-provider-f5ltprulesearch
+module github.com/robjporter/terraform-provider-f5ltprulesearch
 
 go 1.15
 
